@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/teacher-cheatsheet/static/css/main.a4c3a070.css",
+    "main.js": "/teacher-cheatsheet/static/js/main.9f444a65.js",
+    "static/js/453.e5b6cea7.chunk.js": "/teacher-cheatsheet/static/js/453.e5b6cea7.chunk.js",
+    "index.html": "/teacher-cheatsheet/index.html",
+    "main.a4c3a070.css.map": "/teacher-cheatsheet/static/css/main.a4c3a070.css.map",
+    "main.9f444a65.js.map": "/teacher-cheatsheet/static/js/main.9f444a65.js.map",
+    "453.e5b6cea7.chunk.js.map": "/teacher-cheatsheet/static/js/453.e5b6cea7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4c3a070.css",
+    "static/js/main.9f444a65.js"
+  ]
+}
